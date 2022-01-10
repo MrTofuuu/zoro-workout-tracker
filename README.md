@@ -56,6 +56,8 @@ npm run start
 
 ## Screenshot of application
 
+![image](https://user-images.githubusercontent.com/84428685/148721417-16f113fc-0b74-4be7-8eb8-ea5f34b24f3d.png)
+
 
 ### **Links**
 
