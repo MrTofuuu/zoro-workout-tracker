@@ -75,8 +75,8 @@ Chris Stallcup
 ## Badges
 
 [![GitHub open issues](https://img.shields.io/github/issues/MrTofuuu/zoro-workout-tracker?style=for-the-badge)](https://github.com/MrTofuuu/zoro-workout-tracker/issues)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed/MrTofuuu/zoro-workout-tracker?style=for-the-badge)](https://img.shields.io/github/issues-closed/MrTofuuu/zoro-workout-tracker?style=for-the-badge)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/MrTofuuu/zoro-workout-tracker?style=for-the-badge)](https://github.com/MrTofuuu/zoro-workout-tracker/issues?q=is%3Aissue+is%3Aclosed)
 [![GitHub stars](https://img.shields.io/github/stars/MrTofuuu/zoro-workout-tracker?style=for-the-badge)](https://github.com/MrTofuuu/zoro-workout-tracker/stargazers)
-[![GitHub license](https://img.shields.io/github/license/mrtofuuu/zoro-workout-tracker?style=for-the-badge)](./LICENSE.md)
+[![GitHub license](https://img.shields.io/github/license/mrtofuuu/zoro-workout-tracker?style=for-the-badge)](./LICENSE)
 
 
